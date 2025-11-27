@@ -1,6 +1,6 @@
 # 📊 Cyber Crime Mapping Dashboard – Maharashtra
 
-An interactive full-stack dashboard built during a Research internship at **Centre for Police Research (CPR), Pune**. This project visualizes and monitors district-wise cyber crime trends across Maharashtra using real-time data.
+An interactive full-stack dashboard built during a Research internship. This project visualizes and monitors district-wise cyber crime trends across Maharashtra using sample data.
 
 ## 🔍 Features
 
@@ -25,9 +25,6 @@ To assist police officers, policymakers, and researchers in:
 - **Icons & Charts**: Lucide React, Chart.js / Recharts  
 - **Data**: Public crime data from national and state-level sources
 
-## 📚 Outcome
-
-The project aims to be scalable and adaptable for use by police departments and research institutions.
 
 ## 📷 Screenshots
 
@@ -49,3 +46,5 @@ The project aims to be scalable and adaptable for use by police departments and 
 
 3. Run the app locally:  
    `npm start` or `npm run dev`
+
+For Educational Purpose Only.
